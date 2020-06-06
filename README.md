@@ -1,1 +1,1 @@
-# psychic-waffle
+# Psychic Waffle
